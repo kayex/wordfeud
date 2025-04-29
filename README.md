@@ -1,6 +1,6 @@
 # Wordfeud
 
-A Go library for interacting with the [Wordfeud](https://wordfeud.com) API.
+Go API client for the [Wordfeud](https://wordfeud.com) API.
 
 ## Installation
 `go get -u github.com/kayex/wordfeud`
